@@ -1,7 +1,7 @@
 
 # **Call Center Diversity & Inclusion Dashboard (Human Resources)**
 
-# **Call Center Customer Churn Dashboard (Marketing & Growth)**
+# **Call Center Customer Reten Dashboard (Marketing & Growth)**
 ![Sales Dashboard](https://github.com/Ayman947/Power-BI/blob/main/Customer%20Churn%20Dashboard.png)
 
 # **Call Center Performance Dashboard (Operations)**
