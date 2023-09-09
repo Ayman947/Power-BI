@@ -1,5 +1,5 @@
 
-# **Call Center Diversity & Inclusion Dashboard (Human Resources)**
+# **Call Center Gender Diversity Dashboard (Human Resources)**
 
 # **Call Center Churn Dashboard (Marketing & Growth)**
 ![Sales Dashboard](https://github.com/Ayman947/Power-BI/blob/main/Customer%20Churn%20Dashboard.png)
