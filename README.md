@@ -1,5 +1,6 @@
 
 ### **Gender Diversity Dashboard (Human Resources)**
+![Sales Dashboard](https://github.com/Ayman947/Power-BI/blob/main/Gender%20Diversity%20Dashboard.png)
 
 ### **Telecom Customer Churn Dashboard (Marketing & Growth)**
 ![Sales Dashboard](https://github.com/Ayman947/Power-BI/blob/main/Customer%20Churn%20Dashboard.png)
